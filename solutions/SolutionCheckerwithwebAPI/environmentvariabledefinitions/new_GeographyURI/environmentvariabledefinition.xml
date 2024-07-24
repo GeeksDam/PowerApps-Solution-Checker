@@ -1,0 +1,13 @@
+<environmentvariabledefinition schemaname="new_GeographyURI">
+  <description default="Solution checker for your location : Check it out here : https://learn.microsoft.com/en-us/power-platform/alm/checker-api/overview">
+    <label description="Solution checker for your location : Check it out here : https://learn.microsoft.com/en-us/power-platform/alm/checker-api/overview" languagecode="1033" />
+  </description>
+  <displayname default="Geography URI">
+    <label description="Geography URI" languagecode="1033" />
+  </displayname>
+  <introducedversion>1.0.0.0</introducedversion>
+  <iscustomizable>1</iscustomizable>
+  <isrequired>0</isrequired>
+  <secretstore>0</secretstore>
+  <type>100000000</type>
+</environmentvariabledefinition>

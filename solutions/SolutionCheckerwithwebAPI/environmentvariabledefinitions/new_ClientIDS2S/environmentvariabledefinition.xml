@@ -1,0 +1,10 @@
+<environmentvariabledefinition schemaname="new_ClientIDS2S">
+  <displayname default="Client ID (S2S)">
+    <label description="Client ID (S2S)" languagecode="1033" />
+  </displayname>
+  <introducedversion>1.0.0.0</introducedversion>
+  <iscustomizable>1</iscustomizable>
+  <isrequired>0</isrequired>
+  <secretstore>0</secretstore>
+  <type>100000000</type>
+</environmentvariabledefinition>
